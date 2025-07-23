@@ -1,0 +1,4 @@
+.cursor/mcp.json
+__pycache__/
+venv/
+kubearchive/

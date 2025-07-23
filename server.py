@@ -1,7 +1,6 @@
 import os
 import requests
 from fastmcp import FastMCP
-from fastmcp.server.dependencies import get_http_headers
 
 mcp = FastMCP("KubeArchive")
 
